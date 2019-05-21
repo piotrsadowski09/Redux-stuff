@@ -1,3 +1,4 @@
 # Redux-stuff
 
-redux
+download and npm install
+
